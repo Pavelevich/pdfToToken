@@ -1,0 +1,6 @@
+Flask
+PyPDF2
+pytesseract
+pdf2image
+pyzbar
+Pillow
